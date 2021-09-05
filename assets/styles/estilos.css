@@ -536,6 +536,19 @@ figure
     }
 }
 
+@media screen and (max-width: 1023px) and (min-width: 769px){
+    .hero_image
+    {
+        position: relative;
+        width: 400px;
+        height: 400px;
+    }
+    .hero div.container img {
+        margin-left: 150px;
+        margin-top: 25px;
+    }
+}
+
 @media screen and (max-width: 768px)
 {
 
